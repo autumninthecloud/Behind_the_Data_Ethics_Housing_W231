@@ -7,6 +7,12 @@ My personal &amp; group project work for MIDS W231. I focused primarily on housi
 
 Home ownership is a cornerstone of the American Dream, but this is not equally accessible by people of color. Hidden bias exists in digital mortgage lending products based on historical segregation practices as well as the criteria of individuals within the risk evaluation process led by traditional banks and federal guidelines. In order to reduce or eliminate this hidden bias, Data Scientists should consider alternative credit models, incorporating human loan officers within the final evaluation, and additional data points that do not add additional bias into these algorithms. By doing so, potential home owners will continue to have equal access to increase personal wealth equally regardless of their race.
 
+## Personaly Privacy Project -Analysis of Grubhub's Privacy Policy
+[Analysis of Grubhub's Privacy Policy](https://github.com/autumninthecloud/Behind_the_Data_Ethics_Housing_W231/blob/main/Rains_privacy_policy_w231.pdf)
+
+I reviewed Grubhub's terms of service/privacy policy. Then, analyzed what I read through the lens of the three privacy frameworks I learned about in class: Solove's Taxonomy, Nissenbaum's Contextual Integrity, and Mulligan et al.'s analytic.
+
+
 ## Group Privacy Project - Legal/Ethical Analysis of Reidentification in Open Datasets: Berkeley Police Department Log - Arrests
 [Report: Legal/Ethical Analysis](https://github.com/autumninthecloud/Behind_the_Data_Ethics_Housing_W231/blob/d97f5088a90d52d6295d714a86215c82b8c9b7ee/W231_Group_Privacy_Policy_Assignment.pdf)
 
